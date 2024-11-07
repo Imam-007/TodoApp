@@ -13,3 +13,14 @@
 .line{
     border: 1px solid #f4f4f4;
 }
+
+.deleteBtn{
+    float: right;
+    padding: 5px 15px;
+    background-color: rgb(14, 93, 93);
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: -5px;
+    border: none;
+    color: white;
+}
