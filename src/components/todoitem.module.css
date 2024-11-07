@@ -24,3 +24,7 @@
     border: none;
     color: white;
 }
+
+.completed{
+    text-decoration: line-through;
+}
